@@ -19,7 +19,7 @@
 <br>
 سپس در ترموکس با دستور زیر اسکریپت رو دانلود کنید:
 <br><pre>
-git clone https://github.com/HACKGM/hack-instagram
+git clone https://github.com/tHACKGM/hack-instagram
 </pre>
 سپس با دستور زیر وارد پوشه اسکریپت بشید:
 <br><pre>
@@ -49,7 +49,7 @@ _______________________________________
 <h6>
 ابتدا اسکریپت را از لینک زیر دانلود کنید:
 <br>
-https://github.com/HACKGM/hack-instagram/archive/refs/heads/main.zip
+https://github.com/tHACKGM/hack-instagram/archive/refs/heads/main.zip
 <br>
 و یک هاست و دامنه تهیه کنید و فایل اسکریپت رو در اون آپلود کنید و لینک رو به تارگت بدید ، 
 <br>
